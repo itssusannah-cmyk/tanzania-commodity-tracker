@@ -17,7 +17,7 @@ def load_market_data():
     data = [
         {"Region": "Dar es Salaam", "Market": "Kariakoo", "Commodity": "Maize (Mahindi)", "Price_TZS": 950, "Unit": "Kg", "Category": "Cereals"},
         {"Region": "Dar es Salaam", "Market": "Temeke", "Commodity": "Rice (Mchele)", "Price_TZS": 2400, "Unit": "Kg", "Category": "Cereals"},
-        {"Region": "Dar es Salaam", "Market": "Kariakoo", "Commodity": "Beans (Maharage)", "Price_TZS": 3200, "Unit": "Kg", "Category":="Legumes"},
+        {"Region": "Dar es Salaam", "Market": "Kariakoo", "Commodity": "Beans (Maharage)", "Price_TZS": 3200, "Unit": "Kg", "Category":"Legumes"},
         {"Region": "Dar es Salaam", "Market": "Kinondoni", "Commodity": "Sunflower Oil", "Price_TZS": 6500, "Unit": "Litre", "Category": "Oils"},
         
         {"Region": "Arusha", "Market": "Central Market", "Commodity": "Maize (Mahindi)", "Price_TZS": 880, "Unit": "Kg", "Category": "Cereals"},
