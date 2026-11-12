@@ -1,4 +1,5 @@
 # 🇹🇿 Tanzania Local Market Commodity Tracker
+https://tanzania-commodity-tracker-5ezplhz9rscdffh53tdcbb.streamlit.app/
 
 > A lightweight, pure-Python data analysis tool designed to track and analyze commodity prices (Maize, Rice, and Fuel) across key Tanzanian commercial hubs (Dar es Salaam, Mwanza, and Arusha).
 
